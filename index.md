@@ -42,6 +42,7 @@ https://www.youtube.com/siberai
 - [Олег Серебренников - Иерархическая Память Последовательностей](http://intellecture.ai/)
 - [Евгений Бочков - "ArIEL" (Artificial Intelligent Evolving Lifeform) - Искусственная Интеллектуальная Эволюционирующая Форма жизни](https://www.youtube.com/channel/UCxg1VEvLvnoUQAlxEaaVImA)
 - [Александр Летуновский - Общие принципы построения AGI](http://letunovsky.tilda.ws/agi)
+- [Довгань Сергей, Никина Демерза - Нейроэволюция] [source code] (https://gitflic.ru/project/nikita-demerza/neuroevolution-toolbox)
 
 ## Ресурсы сообщества
 https://agirussia.org/resources.html
